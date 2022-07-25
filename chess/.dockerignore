@@ -1,0 +1,5 @@
+node_bodules
+build
+.dockerignore
+Dockerfile
+Dockerfile.prod
