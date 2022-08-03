@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "node-keylogger": "^0.0.1",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "wmctrl": "^0.0.3",
+    "xev-emitter": "^0.0.1"
+  }
+}
