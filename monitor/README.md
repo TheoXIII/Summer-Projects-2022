@@ -15,4 +15,4 @@ Instructions:
 
 - Ensure that zenity, procps, wmctrl and libinput are installed.
 - Run `npm -i`
-- Run `npm monitor.js`
+- Run `node monitor.js`
